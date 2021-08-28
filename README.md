@@ -27,10 +27,6 @@ npm install -g @vue/cli
 ```
 
 ```
-vue create name_of_project
-```
-
-```
 npm run serve
 ```
 
