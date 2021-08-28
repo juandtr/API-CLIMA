@@ -1,4 +1,4 @@
-# GrediClima  
+# GradiClima  
 # Web App consumo de API:
 
 Proyecto creado para consumir el API del clima (https://openweathermap.org), prueba tecnica de ingreso para la empresa Gradiweb
