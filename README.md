@@ -1,7 +1,7 @@
  
 Proyecto creado para consumir el API del clima (https://openweathermap.org), prueba tecnica de ingreso para la empresa Gradiweb
 
-### Pre-requisitos 📋
+### Pre-requisitos
 
 ```
 Vue.JS
@@ -19,7 +19,7 @@ Sass
 Css
 ```
 
-### Instalación 🔧
+### Instalación
 ```
 npm install, 
 
@@ -35,7 +35,7 @@ npm run serve
 ```
 
 
-## Construido con 🛠️
+## Construido con
 
 * [VueJs](https://vuejs.org/) - El framework web usado Frontend JS
 * [Vuetify](https://vuetifyjs.com/en/) - El framework web usado Style
