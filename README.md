@@ -43,7 +43,7 @@ npm run serve
 
 # social
 * **linkedin** - (https://www.linkedin.com/in/juan-trujillo-7843161b1/)
-* 
-#proyecto realizado por: juan david trujillo rodriguez
+
+## proyecto realizado por: juan david trujillo rodriguez
 
 
