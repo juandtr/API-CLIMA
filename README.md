@@ -42,7 +42,8 @@ npm run serve
 * [Sass]() - Estilos
 
 # social
-* **juan david trujill** - *github* - (https://github.com/juandtr);
 * **linkedin** - (https://www.linkedin.com/in/juan-trujillo-7843161b1/)
+* 
+#proyecto realizado por: juan david trujillo rodriguez
 
 
