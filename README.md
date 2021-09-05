@@ -1,5 +1,5 @@
  
-Proyecto creado para consumir el API del clima (https://openweathermap.org), prueba tecnica de ingreso para la empresa Gradiweb
+Proyecto creado para consumir el API del clima (https://openweathermap.org)
 <img width="933" alt="clima" src="https://user-images.githubusercontent.com/75295437/131236578-a88badf9-f91f-48c9-84f3-f6f5f991086c.png">
 
 
