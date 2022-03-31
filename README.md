@@ -17,26 +17,6 @@ Webpack
 ```
 Sass
 ```
-#ejercicio 05
-
-#cceder a los nodos del cluster
-DB_CLUSTER_ID: el identificador del clúster en el que se ejecuta el script. Consulte Clusters API 2.0.
-DB_CONTAINER_IP: la dirección IP privada del contenedor en el que se ejecuta Spark. El script init se ejecuta dentro de este contenedor. Consulte SparkNode.
-DB_IS_DRIVER: si el script se ejecuta en un nodo de controlador.
-DB_DRIVER_IP:  la dirección IP del nodo del controlador.
-DB_INSTANCE_TYPE: el tipo de instancia de la máquina virtual host.
-DB_CLUSTER_NAME:  el nombre del clúster en el que se ejecuta el script.
-DB_PYTHON_VERSION: la versión de Python que se usa en el clúster.
-DB_IS_JOB_CLUSTER: si el clúster se creó para ejecutar un trabajo. Consulte Creación de un trabajo.
-SPARKPASSWORD: una ruta de acceso a un SPARKPASSWO
-#tambien lo podemos hacer desde bash si deseamos acceder a un nodo podemos hacerlo de la siguiente manera utilizando el siguiente script
-echo $DB_IS_DRIVER
-if [[ $DB_IS_DRIVER = "TRUE" ]]; then
-  <run this part only on driver>
-else
-  <run this part only on workers>
-fi
-<run this part on both driver and workers>
 Css
 ```
 
